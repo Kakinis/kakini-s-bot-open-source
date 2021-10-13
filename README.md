@@ -1,2 +1,2 @@
 # kakini-s-bot-open-source
-For using the bot, pls install discord.js npm install discord.js
+# Pls for support me join my discord server : https://discord.gg/7rdhY9Yjzs
